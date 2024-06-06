@@ -1,4 +1,4 @@
-# FrisbeeDetection
+# Frisbee Detection
 
 ## Introduction
 
@@ -12,8 +12,12 @@ As an individual developer, my knowledge and capabilities are limited. Therefore
 
 Here is the roadmap for the development of this project:
 
-Disc and Player Detection and Tracking on PC: Utilize YOLOv8 and OpenCV to detect and track the disc and players on a personal computer.
-Mobile App Development: Create a mobile application incorporating the functionality developed in phase 1.
-Gimbal Control Integration: Implement gimbal control to synchronize with the object tracking system.
-Mobile App Gimbal Control: Integrate gimbal control features into the mobile application.
-Additional Features: Enhance the application with features such as game data analysis, specific player detection, and live streaming capabilities.
+1. **Disc and Player Detection and Tracking on PC**: Utilize YOLOv8 and OpenCV to detect and track the disc and players on a personal computer.
+2. **Mobile App Development**: Create a mobile application incorporating the functionality developed in phase 1.
+3. **Gimbal Control Integration**: Implement gimbal control to synchronize with the object tracking system.
+4. **Mobile App Gimbal Control**: Integrate gimbal control features into the mobile application.
+5. **Additional Features**: Enhance the application with features such as game data analysis, specific player detection, and live streaming capabilities.
+
+## Contact
+
+If you're interested in contributing to this project, or if you have any questions or suggestions, please contact me at yangchle1999@gmail.com.
