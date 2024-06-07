@@ -20,8 +20,8 @@ To avoid additional costs, we would like to use DJI OSMO Mobile 6 as our default
 
 Here is the roadmap for the development of this project:
 
-1. **Disc and Player Detection and Tracking on PC**: Utilize YOLOv8 and OpenCV to detect and track the disc and players on a personal computer.<br>
-   * Develop and Train YOLOv8 Model including image extraction, labeling and training.<br>
+1. **Disc and Player Detection and Tracking on PC**: Utilize YOLOv8 Nano and TensorFlow to detect and track the disc and players on a personal computer.<br>
+   * Develop and Train YOLOv8 Nano Model including image extraction, labeling and training.<br>
    * Develop and Test Real-Time Tracking by converting the trained YOLO model to TensorFlow Lite format.<br>
    
 2. **Mobile App Development**: Create a mobile application incorporating the functionality developed in phase 1.<br>
